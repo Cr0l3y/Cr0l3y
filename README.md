@@ -1,7 +1,6 @@
 ### Olá👋 Bem vindo ao meu perfil
 
-
-I'm graduated in Data Science at Centro Universitário IESB, in search of new languages ​​and other sources of knowledge.
+I'm graduated in Data Science from Centro Universitário IESB, Brasília-DF, in search of new languages ​​and other sources of knowledge.
 
 I work in data analysis and with Machine learning, deep learning, Rstudio, SQL and databases. Latest front-end languages: JavaScript, HTML and CSS. I have some projects done on Kaggle and others on git.
 
