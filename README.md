@@ -1,11 +1,11 @@
 ### Olá👋 Bem vindo ao meu perfil
 
 
-Sou formado em Ciência de dados no Centro Universitário IESB, em busca de novas linguagens e outras fontes conhecimento.
+I'm graduated in Data Science at Centro Universitário IESB, in search of new languages ​​and other sources of knowledge.
 
-Atuo na parte de analise de dados e com Machine learning, deep learning, Rstudio, SQL e banco de dados. Linguagens mais recentes front-end: JavaScript, HTML e CSS. Tenho alguns projetos feito no Kaggle e outros no git.
+I work in data analysis and with Machine learning, deep learning, Rstudio, SQL and databases. Latest front-end languages: JavaScript, HTML and CSS. I have some projects done on Kaggle and others on git.
 
-Interesse em novas tecnologias, desenvolvimento  em front-end e back-end.
+Interest in new technologies, front-end and back-end development.
 
 ![Cr0l3y GitHub stats](https://github-readme-stats.vercel.app/api?username=Cr0l3y&show_icons=true&theme=onedark)
 
