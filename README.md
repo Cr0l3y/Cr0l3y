@@ -21,12 +21,12 @@ Interest in new technologies, front-end and back-end development.
 
 
 
-## Ultimos projetos:
-- [Titanic Redes neurais](https://www.kaggle.com/code/cr0l3y/redes-neurais-titanic)
+## Latest projects:
+- [Titanic Using Neural Networks.](https://www.kaggle.com/code/cr0l3y/redes-neurais-titanic)
 
-- [Projeto Iris aprendizado de maquina](https://www.kaggle.com/code/cr0l3y/irirs-aula-24-09-apz-de-maquina)
+- [Iris Machine Learning Project.](https://www.kaggle.com/code/cr0l3y/irirs-aula-24-09-apz-de-maquina)
 
-## Redes sociais
+## Social media.
 
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willian_cr0/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-de-sousa-xavier-362673172/)
