@@ -23,7 +23,6 @@ Interest in new technologies, front-end and back-end development.
 ## Latest projects:
 - [Titanic Using Neural Networks.](https://www.kaggle.com/code/cr0l3y/redes-neurais-titanic)
 
-- [Iris Machine Learning Project.](https://www.kaggle.com/code/cr0l3y/irirs-aula-24-09-apz-de-maquina)
 
 ## Social media.
 
