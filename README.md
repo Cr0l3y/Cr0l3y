@@ -6,11 +6,6 @@ I work in data analysis and with Machine learning, deep learning, Rstudio, SQL a
 
 Interest in new technologies, front-end and back-end development.
 
-![Cr0l3y GitHub stats](https://github-readme-stats.vercel.app/api?username=Cr0l3y&show_icons=true&theme=onedark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr0l3y&layout=compact)
-
 
 
 
